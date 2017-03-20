@@ -1,5 +1,5 @@
 # Sample springboot app for docker world
 
 
-#to run
+# To run
 docker run -p 8080:8080 -t alparslantas/dockerizedsampleapp
